@@ -6,7 +6,7 @@
   "name": "base-aspnet-electron",
   "author": "",
   "singleInstance": false,
-  "environment": "Production",
+  "environment": "Development",
   "build": {
     "appId": "com.base-aspnet-electron.app",
     "productName": "base-aspnet-electron",
