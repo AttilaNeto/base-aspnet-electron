@@ -1,0 +1,6 @@
+@base_aspnet_electron_HostAddress = http://localhost:5039
+
+GET {{base_aspnet_electron_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
